@@ -1,0 +1,2 @@
+brcmfmac43602-pcie.bin -text -diff merge=ours
+brcmfmac4366c-pcie.bin -text -diff merge=ours
